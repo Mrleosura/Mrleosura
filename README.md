@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm MrLeo 👋
 
-<!--
-**Mrleosura/Mrleosura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** based in Addis Ababa, Ethiopia — open to **Lead Software Engineer** roles (Hybrid / Remote).
 
-Here are some ideas to get you started:
+I build scalable web apps across the whole stack: React and Next.js on the frontend, Node.js / Express and Python on the backend, with databases and APIs in between. I focus on clean architecture, scalable systems, and shipping reliable products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, responsive web design, UI/UX, WordPress
+- **Backend:** Node.js / Express, Python, REST APIs
+- **Data & platforms:** Databases, Git & GitHub, GitHub Pages, AI-assisted development
+
+## 🌐 Find me
+
+- **Portfolio:** https://mrleosura.github.io/
+- **GitHub:** https://github.com/Mrleosura
+- **YouTube:** https://www.youtube.com/@MrLeosura
+- **X:** https://x.com/sura_1921
+- **Email:** surafelyosef547@gmail.com
